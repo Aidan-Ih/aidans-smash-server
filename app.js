@@ -11,7 +11,7 @@ var credentials = {key: privateKey, cert: certificate};
 */
 
 
-var runNutbot = require("./Discord/index")
+//var runNutbot = require("./Discord/index")
 var express = require('express');
 var cors = require('cors')
 var app = express();
